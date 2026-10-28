@@ -1,9 +1,0 @@
-This task involves you, paying attention to details and finding the 'keys to the castle'.
-
-Task 1: Website Analysis
-
-Let's run nmap and check what ports are open.
-
-nmap -A -p- -Pn -T5 10.201.1.210 > nmap.txt
-
-What port is for the web server?
